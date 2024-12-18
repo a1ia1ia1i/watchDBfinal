@@ -8,4 +8,4 @@ db.watches.insertMany([
     { brand: "Casio", model: "G-Shock", price: 200 }
 ]);
 
-print("Sample watch data inserted successfully into 'watches' collection!");
+
