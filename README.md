@@ -1,1 +1,2 @@
 You can test build and run it using: docker-compose up -d . You can then visit http://localhost:8080 to see that it is running successfuly. make sure docker is running and you are in the project directory. Use "docker-compose down" to stop and remove the containers
+after cloning this repo, copy the example.env file, edit the username and password fields with your desired credentials and save the file as .env.
