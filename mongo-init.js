@@ -1,4 +1,4 @@
-db = db.getSiblingDB('watchdb'); // Create or switch to 'watchdb'
+db = db.getSiblingDB('watchdb');
 
 db.watches.insertMany([
     { brand: "Rolex", model: "Daytona", price: 25000 },
